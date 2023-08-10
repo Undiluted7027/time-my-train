@@ -1,0 +1,359 @@
+,T_Num,Train,From,To,Days,Mon,Tue,Wed,Thurs,Fri,Sat,Sun
+0,20501,TEJAS EXPRESS,Agartala,Anand Vihar Terminal,M,1,0,0,0,0,0,0
+1,12957,ADI NDLS RAJ EX,Ahmedabad Jn,New Delhi,Daily,1,1,1,1,1,1,1
+2,20502,AGTL TEJAS EXP,Anand Vihar Terminal,Agartala,W,0,0,1,0,0,0,0
+3,20817,RAJDHANI EXPRES,Bhubaneswar,New Delhi,Sa,0,0,0,0,0,1,0
+4,22811,RAJDHANI EXPRES,Bhubaneswar,New Delhi,W Su,0,0,1,0,0,0,1
+5,22823,RAJDHANI EXPRES,Bhubaneswar,New Delhi,M Tu Th F,1,1,0,1,1,0,0
+6,12441,BSP NDLS RAJ EX,Bilaspur Jn,New Delhi,M Th,1,0,0,1,0,0,0
+7,22221,NZM RAJDHANI EX,C Shivaji Maharaj T,Hazrat Nizamuddin,Daily,1,1,1,1,1,1,1
+8,12423,RAJDHANI EXP,Dibrugarh,New Delhi,Daily,1,1,1,1,1,1,1
+9,20503,RAJDHANI EXP,Dibrugarh,New Delhi,Tu W Th Sa Su,0,1,1,1,0,1,1
+10,20505,RAJDHANI EXP,Dibrugarh,New Delhi,M F,1,0,0,0,1,0,0
+11,12432,TVC RAJDHNI EXP,Hazrat Nizamuddin,Thiruvananthapuram Central,Tu W Su,0,1,1,0,0,0,1
+12,12434,NZM MAS RAJDHANI,Hazrat Nizamuddin,Mgr Chennai Ctr,W F,0,0,1,0,1,0,0
+13,12438,SC RAJDHANI,Hazrat Nizamuddin,Secunderabad Jn,Su,0,0,0,0,0,0,1
+14,12954,AUG KRANTI RAJ,Hazrat Nizamuddin,Mumbai Central,Daily,1,1,1,1,1,1,1
+15,22222,CSMT RAJDHANI,Hazrat Nizamuddin,C Shivaji Maharaj T,Daily,1,1,1,1,1,1,1
+16,22414,NZM MAO RAJDANI,Hazrat Nizamuddin,Madgaon,F Sa,0,0,0,0,1,1,0
+17,22692,SBC RAJDHANI,Hazrat Nizamuddin,Ksr Bengaluru,Daily,1,1,1,1,1,1,1
+18,12301,RAJDHANI EXPRES,Howrah Jn,New Delhi,Except Sun,1,1,1,1,1,1,0
+19,12305,RAJDHANI EXPRES,Howrah Jn,New Delhi,Su,0,0,0,0,0,0,1
+20,12426,JAMMU RAJDHANI,Jammu Tawi,New Delhi,Daily,1,1,1,1,1,1,1
+21,22691,RAJDHANI EXP,Ksr Bengaluru,Hazrat Nizamuddin,Daily,1,1,1,1,1,1,1
+22,22413,MAO NZM RAJ SPL,Madgaon,Hazrat Nizamuddin,M Su,1,0,0,0,0,0,1
+23,12433,MAS NZM RAJDHANI,Mgr Chennai Ctr,Hazrat Nizamuddin,F Su,0,0,0,0,1,0,1
+24,22207,TVC AC SF EXP,Mgr Chennai Ctr,Thiruvananthapuram Central,Tu F,0,1,0,0,1,0,0
+25,12951,TEJAS RAJ EXP,Mumbai Central,New Delhi,Daily,1,1,1,1,1,1,1
+26,12953,MMCT NZM AK RAJ,Mumbai Central,Hazrat Nizamuddin,Daily,1,1,1,1,1,1,1
+27,12302,HWH RAJDHANI,New Delhi,Howrah Jn,Except Fri,1,1,1,1,0,1,1
+28,12306,KOLKATA RAJDHNI,New Delhi,Howrah Jn,F,0,0,0,0,1,0,0
+29,12310,RJPB TEJAS RAJ,New Delhi,Rajendranagar T,Daily,1,1,1,1,1,1,1
+30,12314,SEALDAH RAJDHNI,New Delhi,Sealdah,Daily,1,1,1,1,1,1,1
+31,12424,DBRG RAJDHANI,New Delhi,Dibrugarh,Daily,1,1,1,1,1,1,1
+32,12425,JAMMU RAJDHANI,New Delhi,Jammu Tawi,Daily,1,1,1,1,1,1,1
+33,12442,BSP RAJDHNI EXP,New Delhi,Bilaspur Jn,Tu Sa,0,1,0,0,0,1,0
+34,12454,RNC RAJDHANI,New Delhi,Ranchi,Sa,0,0,0,0,0,1,0
+35,12952,MMCT TEJAS RAJ,New Delhi,Mumbai Central,Daily,1,1,1,1,1,1,1
+36,12958,ADI SJ RAJDHANI,New Delhi,Ahmedabad Jn,Daily,1,1,1,1,1,1,1
+37,20408,RNC RAJDHANI,New Delhi,Ranchi,W,0,0,1,0,0,0,0
+38,20504,DBRG RAJDHANI,New Delhi,Dibrugarh,M Tu W F Sa,1,1,1,0,1,1,0
+39,20506,DBRG RAJDHANI,New Delhi,Dibrugarh,Th Su,0,0,0,1,0,0,1
+40,20818,BBS RAJDHANI,New Delhi,Bhubaneswar,Su,0,0,0,0,0,0,1
+41,20840,NDLS RNC RAJ EX,New Delhi,Ranchi,M F,1,0,0,0,1,0,0
+42,22812,BBS RAJDHANI,New Delhi,Bhubaneswar,M F,1,0,0,0,1,0,0
+43,22824,BBS RAJDHANI,New Delhi,Bhubaneswar,Tu W Th Sa,0,1,1,1,0,1,0
+44,12309,RJPB TEJAS RAJ,Rajendranagar T,New Delhi,Daily,1,1,1,1,1,1,1
+45,12453,RNC NDLS RAJ EX,Ranchi,New Delhi,Su,0,0,0,0,0,0,1
+46,20407,RNC NDLS RAJ EX,Ranchi,New Delhi,Th,0,0,0,1,0,0,0
+47,20839,RNC NDLS RAJ EX,Ranchi,New Delhi,W Sa,0,0,1,0,0,1,0
+48,12313,RAJDHANI EXPRES,Sealdah,New Delhi,Daily,1,1,1,1,1,1,1
+49,12437,SC NZM RAJDHANI,Secunderabad Jn,Hazrat Nizamuddin,W,0,0,1,0,0,0,0
+50,12431,RAJDHANI EXP,Thiruvananthapuram Central,Hazrat Nizamuddin,Tu Th F,0,1,0,1,1,0,0
+51,22208,MAS SF AC EXP,Thiruvananthapuram Central,Mgr Chennai Ctr,W Su,0,0,1,0,0,0,1
+0,12016,AII NDLS SHATBI,Ajmer Jn,New Delhi,Daily,1,1,1,1,1,1,1
+1,12014,ASR SHTBDI EXP,Amritsar Jn,New Delhi,Daily,1,1,1,1,1,1,1
+2,12030,ASR SHTBDI EXP,Amritsar Jn,New Delhi,Except Thu,1,1,1,0,1,1,1
+3,12032,ASR SHATBDI EXP,Amritsar Jn,New Delhi,Th,0,0,0,1,0,0,0
+4,22119,KRMI TEJAS EXP,C Shivaji Maharaj T,Karmali,Tu W F Sa Su,0,1,1,0,1,1,1
+5,12046,CDG NDLS SHT EX,Chandigarh,New Delhi,Except Wed,1,1,0,1,1,1,1
+6,12244,CBE MAS SHATABDI,Coimbatore Jn,Mgr Chennai Ctr,Except Tue,1,0,1,1,1,1,1
+7,12018,DDN SHTBDI EXP,Dehradun,New Delhi,Daily,1,1,1,1,1,1,1
+8,12010,MMCT SHATABDI,Gandhinagar Capital,Mumbai Central,Except Sun,1,1,1,1,1,1,0
+9,12088,GHY NHLN VISTAD,Guwahati,Naharlagun,M Th Su,1,0,0,1,0,0,1
+10,12050,GATIMAAN EXP,Hazrat Nizamuddin,Virangana Lakshmibai(Jhanshi),Except Fri,1,1,1,1,0,1,1
+11,12019,SHATABDI EXP,Howrah Jn,Ranchi,Except Sun,1,1,1,1,1,1,0
+12,12041,SHATABDI EXP,Howrah Jn,New Jalpaiguri,Except Sun,1,1,1,1,1,1,0
+13,12006,KALKA SHTBDI EX,Kalka,New Delhi,Daily,1,1,1,1,1,1,1
+14,12012,KLK SHATABADI,Kalka,New Delhi,Daily,1,1,1,1,1,1,1
+15,12033,SHATABDI EXP,Kanpur Central,New Delhi,Except Sun,1,1,1,1,1,1,0
+16,22120,CSMT TEJAS EXP,Karmali,C Shivaji Maharaj T,Tu W F Sa Su,0,1,1,0,1,1,1
+17,12039,NDLS SHATABADI,Kathgodam,New Delhi,Daily,1,1,1,1,1,1,1
+18,12028,SHATABDI EXP,Ksr Bengaluru,Mgr Chennai Ctr,Except Tue,1,0,1,1,1,1,1
+19,12003,SWARAN SHATABDI,Lucknow Ne,New Delhi,Daily,1,1,1,1,1,1,1
+20,3525,MDP-GRD MEMU PGR SPL,Madhupur Jn,Giridih,Daily,1,1,1,1,1,1,1
+21,12007,MYS SHATABDI,Mgr Chennai Ctr,Mysore Jn,Except Wed,1,1,0,1,1,1,1
+22,12027,MAS SBC SHTABDI,Mgr Chennai Ctr,Ksr Bengaluru,Except Tue,1,0,1,1,1,1,1
+23,12243,MAS CBE SHATABDI,Mgr Chennai Ctr,Coimbatore Jn,Except Tue,1,0,1,1,1,1,1
+24,12009,ADI SHATABDI,Mumbai Central,Gandhinagar Capital,Except Sun,1,1,1,1,1,1,0
+25,12008,SHATABDI EXP,Mysore Jn,Mgr Chennai Ctr,Except Wed,1,1,0,1,1,1,1
+26,12087,NHLN GHY VISTAD,Naharlagun,Guwahati,M Tu F,1,1,0,0,1,0,0
+27,12002,BHOPAL SHTBDI,New Delhi,Rani Kamlapati(Bhopal),Daily,1,1,1,1,1,1,1
+28,12004,LJN SWRAN SHTBD,New Delhi,Lucknow Ne,Daily,1,1,1,1,1,1,1
+29,12005,KALKA SHTBDI EX,New Delhi,Kalka,Daily,1,1,1,1,1,1,1
+30,12011,KLK SHATABADI,New Delhi,Kalka,Daily,1,1,1,1,1,1,1
+31,12013,ASR SHTBDI EXP,New Delhi,Amritsar Jn,Daily,1,1,1,1,1,1,1
+32,12015,AJMER SHATABDI,New Delhi,Ajmer Jn,Daily,1,1,1,1,1,1,1
+33,12017,DDN SHTBDI EXP,New Delhi,Dehradun,Daily,1,1,1,1,1,1,1
+34,12029,ASR SHTBDI EXP,New Delhi,Amritsar Jn,Except Thu,1,1,1,0,1,1,1
+35,12031,ASR SHATBDI EXP,New Delhi,Amritsar Jn,Th,0,0,0,1,0,0,0
+36,12034,NDLS CNB SHT,New Delhi,Kanpur Central,Except Sun,1,1,1,1,1,1,0
+37,12040,KGM SHTBDI EXP,New Delhi,Kathgodam,Daily,1,1,1,1,1,1,1
+38,12045,NDLS CDG SHTBDI,New Delhi,Chandigarh,Except Wed,1,1,0,1,1,1,1
+39,22436,VANDE BHARAT EX,New Delhi,Varanasi Jn,Tu W F Sa Su,0,1,1,0,1,1,1
+40,12042,SHATABDI EXP,New Jalpaiguri,Howrah Jn,Except Sun,1,1,1,1,1,1,0
+41,12020,SHATABDI EXP,Ranchi,Howrah Jn,Except Sun,1,1,1,1,1,1,0
+42,12001,NDLS SHATABDI,Rani Kamlapati(Bhopal),New Delhi,Daily,1,1,1,1,1,1,1
+43,22435,VANDE BHARAT EX,Varanasi Jn,New Delhi,Tu W F Sa Su,0,1,1,0,1,1,1
+44,12049,GATIMAAN EXP,Virangana Lakshmibai(Jhanshi),Hazrat Nizamuddin,Except Fri,1,1,1,1,0,1,1
+0,12297,PUNE DURONTO,Ahmedabad Jn,Pune Jn,Tu F Su,0,1,0,0,1,0,1
+1,12281,DURONTO EXPRESS,Bhubaneswar,New Delhi,W,0,0,1,0,0,0,0
+2,12260,SDAH DURONTO,Bikaner Jn,Sealdah,M Tu Th F,1,1,0,1,1,0,0
+3,12261,HOWRAH DURONTO,C Shivaji Maharaj T,Howrah Jn,Tu W Th Su,0,1,1,1,0,0,1
+4,12289,NGP DURONTO EXP,C Shivaji Maharaj T,Nagpur,Daily,1,1,1,1,1,1,1
+5,12214,DEE YPR DURONTO,Delhi S Rohilla,Yasvantpur Jn,M,1,0,0,0,0,0,0
+6,12265,JAT DURONTO EXP,Delhi S Rohilla,Jammu Tawi,Tu F Su,0,1,0,0,1,0,1
+7,77410,DHNE GY PASS,Dhone Jn,Gooty Jn,Daily,1,1,1,1,1,1,1
+8,12224,ERS LTT DURONTO,Ernakulam Jn,Lokmanyatilak,W Su,0,0,1,0,0,0,1
+9,12283,ERS NZM DURONTO,Ernakulam Jn,Hazrat Nizamuddin,Tu,0,1,0,0,0,0,0
+10,12268,MMCT DURONTO EXP,Hapa,Mumbai Central,Daily,1,1,1,1,1,1,1
+11,12264,PUNE DURNTO EXP,Hazrat Nizamuddin,Pune Jn,M Th,1,0,0,1,0,0,0
+12,12270,MAS DURONTO EXP,Hazrat Nizamuddin,Mgr Chennai Ctr,Tu Sa,0,1,0,0,0,1,0
+13,12284,NZM ERS DURONTO,Hazrat Nizamuddin,Ernakulam Jn,Sa,0,0,0,0,0,1,0
+14,12286,SC DURONTO EXP,Hazrat Nizamuddin,Secunderabad Jn,M F,1,0,0,0,1,0,0
+15,12240,MMCT DURONTO EXP,Hisar,Mumbai Central,Tu Th,0,1,0,1,0,0,0
+16,12222,PUNE DURONTO EX,Howrah Jn,Pune Jn,Th Sa,0,0,0,1,0,1,0
+17,12245,YPR DURONTO EXP,Howrah Jn,Yasvantpur Jn,Tu W F Sa Su,0,1,1,0,1,1,1
+18,12262,CSMT DURONTO EX,Howrah Jn,C Shivaji Maharaj T,M Tu W F,1,1,1,0,1,0,0
+19,12273,NDLS DURONTO EX,Howrah Jn,New Delhi,M F,1,0,0,0,1,0,0
+20,12228,MMCT DURONTO,Indore Jn Bg,Mumbai Central,F Su,0,0,0,0,1,0,1
+21,12266,DEE DURONTO EXP,Jammu Tawi,Delhi S Rohilla,M W Sa,1,0,1,0,0,1,0
+22,12219,SC DURONTO,Lokmanyatilak,Secunderabad Jn,W Sa,0,0,1,0,0,1,0
+23,12223,LTT ERS DURONTO,Lokmanyatilak,Ernakulam Jn,Tu Sa,0,1,0,0,0,1,0
+24,12293,PRYJ DURONTO,Lokmanyatilak,Prayagraj Jn.,M F,1,0,0,0,1,0,0
+25,12269,MAS NZM DURONTO,Mgr Chennai Ctr,Hazrat Nizamuddin,M F,1,0,0,0,1,0,0
+26,12227,INDB DURONTO,Mumbai Central,Indore Jn Bg,Th Sa,0,0,0,1,0,1,0
+27,12239,HISAR DURONTO,Mumbai Central,Hisar,Tu Su,0,1,0,0,0,0,1
+28,12267,HAPA  DURONTO EX,Mumbai Central,Hapa,Daily,1,1,1,1,1,1,1
+29,22209,NDLS DURONTO,Mumbai Central,New Delhi,M F,1,0,0,0,1,0,0
+30,12290,CSMT DURONTO EX,Nagpur,C Shivaji Maharaj T,Daily,1,1,1,1,1,1,1
+31,12274,HWH DURONTO EXP,New Delhi,Howrah Jn,Tu Sa,0,1,0,0,0,1,0
+32,12282,BBS DURONTO EXP,New Delhi,Bhubaneswar,Th,0,0,0,1,0,0,0
+33,22210,MMCT DURONTO,New Delhi,Mumbai Central,Tu Sa,0,1,0,0,0,1,0
+34,22214,DURONTO EXP,Patna Jn,Shalimar,Tu Th Sa,0,1,0,1,0,1,0
+35,12294,LTT DURONTO,Prayagraj Jn.,Lokmanyatilak,Tu Sa,0,1,0,0,0,1,0
+36,12221,HOWRAH DURONTO,Pune Jn,Howrah Jn,M Sa,1,0,0,0,0,1,0
+37,12263,NZM DURONTO SPL,Pune Jn,Hazrat Nizamuddin,Tu F,0,1,0,0,1,0,0
+38,12298,ADI DURONTO,Pune Jn,Ahmedabad Jn,M Th Sa,1,0,0,1,0,1,0
+39,22202,DURONTO EXPRESS,Puri,Sealdah,Tu Th Sa,0,1,0,1,0,1,0
+40,12259,BKN DURONTO EXP,Sealdah,Bikaner Jn,M W Th Su,1,0,1,1,0,0,1
+41,22201,DURONTO EXPRESS,Sealdah,Puri,M W F,1,0,1,0,1,0,0
+42,12220,LTT DURONTO,Secunderabad Jn,Lokmanyatilak,Tu F,0,1,0,0,1,0,0
+43,12285,NZM DURONTO EXP,Secunderabad Jn,Hazrat Nizamuddin,Th Su,0,0,0,1,0,0,1
+44,22204,VSKP DURONTO,Secunderabad Jn,Visakhapatnam,M W Sa,1,0,1,0,0,1,0
+45,22213,PNBE DURONTO EX,Shalimar,Patna Jn,M W F,1,0,1,0,1,0,0
+46,22203,DURONTO EXPRESS,Visakhapatnam,Secunderabad Jn,Tu Th Su,0,1,0,1,0,0,1
+47,12213,YPR DEE DURONTO,Yasvantpur Jn,Delhi S Rohilla,Sa,0,0,0,0,0,1,0
+48,12246,DURONTO EXPRESS,Yasvantpur Jn,Howrah Jn,M Tu Th F Su,1,1,0,1,1,0,1
+0,12097,AGTL JRBM JANSHT,Agartala,Jiribam,M W F,1,0,1,0,1,0,0
+1,12065,DEE JAN SHATBDI,Ajmer Jn,Delhi S Rohilla,M Tu W F Sa,1,1,1,0,1,1,0
+2,12054,ASR HW JNSHTBDI,Amritsar Jn,Haridwar Jn,Except Thu,1,1,1,0,1,1,1
+3,15125,PNBE JANSHTABDI,Banaras,Patna Jn,Daily,1,1,1,1,1,1,1
+4,12074,JANA SATABDI EX,Bhubaneswar,Howrah Jn,Daily,1,1,1,1,1,1,1
+5,12051,MAO JANSHATABDI,C Shivaji Maharaj T,Madgaon,Daily,1,1,1,1,1,1,1
+6,12071,JANSHATABDTI EX,C Shivaji Maharaj T,Jalna,Daily,1,1,1,1,1,1,1
+7,12084,MV JAN SHATABDI,Coimbatore Jn,Mayiladuturai Jn,Except Tue,1,0,1,1,1,1,1
+8,12056,NDLS JANSHTABDI,Dehradun,New Delhi,Daily,1,1,1,1,1,1,1
+9,12091,DDN JANSHTB EXP,Dehradun,Kathgodam,Tu W F Sa Su,0,1,1,0,1,1,1
+10,12038,SIDDHABALI J SH,Delhi,Kotdwara,Daily,1,1,1,1,1,1,1
+11,12066,AII JANSHTBI EX,Delhi S Rohilla,Ajmer Jn,M Tu W F Sa,1,1,1,0,1,1,0
+12,12070,JANSHATABDI EXP,Gondia Jn,Raigarh,Except Sat,1,1,1,1,1,0,1
+13,12053,HW ASR JNSHTBDI,Haridwar Jn,Amritsar Jn,Except Thu,1,1,1,0,1,1,1
+14,12060,KOTA JANSHTABDI,Hazrat Nizamuddin,Kota Jn,Daily,1,1,1,1,1,1,1
+15,12023,JANSHATABDI EXP,Howrah Jn,Patna Jn,Except Sun,1,1,1,1,1,1,0
+16,12073,BBS JANSHATABDI,Howrah Jn,Bhubaneswar,Daily,1,1,1,1,1,1,1
+17,12080,JANSHATABDI EXP,Hubballi Jn,Ksr Bengaluru,Daily,1,1,1,1,1,1,1
+18,12062,RKMP JANSHTBDI,Jabalpur,Rani Kamlapati(Bhopal),Daily,1,1,1,1,1,1,1
+19,12072,JAN SHATABDI,Jalna,C Shivaji Maharaj T,Daily,1,1,1,1,1,1,1
+20,12098,JRBM AGTL JANSHT,Jiribam,Agartala,M W F,1,0,1,0,1,0,0
+21,12081,TVC JANSHATABDI,Kannur (Cannanore),Thiruvananthapuram Central,M Tu Th F Sa,1,1,0,1,1,1,0
+22,12092,NAINI DOON JAN,Kathgodam,Dehradun,Tu W F Sa Su,0,1,1,0,1,1,1
+23,12059,NZM JAN SHATABDI,Kota Jn,Hazrat Nizamuddin,Daily,1,1,1,1,1,1,1
+24,12075,TVC JANSHATABDI,Kozhikkode (Calicut),Thiruvananthapuram Central,Daily,1,1,1,1,1,1,1
+25,12079,JANSHATABDI EXP,Ksr Bengaluru,Hubballi Jn,Daily,1,1,1,1,1,1,1
+26,12052,CSMT JANSHTABDI,Madgaon,C Shivaji Maharaj T,Daily,1,1,1,1,1,1,1
+27,12083,CBE JANSHATABDI,Mayiladuturai Jn,Coimbatore Jn,Except Tue,1,0,1,1,1,1,1
+28,12077,BZA JANSHATABDI,Mgr Chennai Ctr,Vijayawada Jn,Except Tue,1,0,1,1,1,1,1
+29,12055,DDN JANSHTBDI,New Delhi,Dehradun,Daily,1,1,1,1,1,1,1
+30,12057,UHL JANSHATABDI,New Delhi,Una Himachal,Daily,1,1,1,1,1,1,1
+31,12024,JANSHATABDI EXP,Patna Jn,Howrah Jn,Except Sun,1,1,1,1,1,1,0
+32,15126,JANSHATABDI EXP,Patna Jn,Banaras,Daily,1,1,1,1,1,1,1
+33,12069,JANSHATABDI EXP,Raigarh,Gondia Jn,Except Sun,1,1,1,1,1,1,0
+34,12061,JBP JANSHATABDI,Rani Kamlapati(Bhopal),Jabalpur,Daily,1,1,1,1,1,1,1
+35,12090,JANSHATABDI EXP,Shivamogga Town,Ksr Bengaluru,Daily,1,1,1,1,1,1,1
+36,12076,CLT JANSHATABDI,Thiruvananthapuram Central,Kozhikkode (Calicut),Daily,1,1,1,1,1,1,1
+37,12082,CAN JANSHATABDI,Thiruvananthapuram Central,Kannur (Cannanore),M W Th F Su,1,0,1,1,1,0,1
+38,12058,NDLS JANSHTBADI,Una Himachal,New Delhi,Daily,1,1,1,1,1,1,1
+39,12078,JAN SHATABDI,Vijayawada Jn,Mgr Chennai Ctr,Except Tue,1,0,1,1,1,1,1
+0,82902,IRCTC TEJAS EXP,Ahmedabad Jn,Mumbai Central,Except Thu,1,1,1,0,1,1,1
+1,82356,CSMT PNBE SPL,C Shivaji Maharaj T,Patna Jn,Tu F,0,1,0,0,1,0,0
+2,82654,YPR SUVIDHA EXP,Jaipur,Yasvantpur Jn,Sa,0,0,0,0,0,1,0
+3,82501,IRCTC TEJAS EXP,Lucknow Ne,New Delhi,Except Tue,1,0,1,1,1,1,1
+4,82901,IRCTC TEJAS EXP,Mumbai Central,Ahmedabad Jn,Except Thu,1,1,1,0,1,1,1
+5,82606,NCJ TBM SUVIDHA,Nagarcoil Jn,Tambaram,Su,0,0,0,0,0,0,1
+6,82502,IRCTC TEJAS EXP,New Delhi,Lucknow Ne,Except Tue,1,0,1,1,1,1,1
+7,82355,PNBE CSMT SPL,Patna Jn,C Shivaji Maharaj T,W Su,0,0,1,0,0,0,1
+8,82605,TBM NCJ SUVIDHA,Tambaram,Nagarcoil Jn,F,0,0,0,0,1,0,0
+9,82604,TBM SUVIDHA,Tirunelveli,Tambaram,Su,0,0,0,0,0,0,1
+10,82653,JP SUVIDHA EXP,Yasvantpur Jn,Jaipur,Th,0,0,0,1,0,0,0
+0,12504,HUMSAFAR EXP,Agartala,Bangalore Cant,Sa,0,0,0,0,0,1,0
+1,22920,ADI MAS HUMSAFA,Ahmedabad Jn,Mgr Chennai Ctr,M,1,0,0,0,0,0,0
+2,20973,RMM HUMSAFAR SF,Ajmer Jn,Rameswaram,Sa,0,0,0,0,0,1,0
+3,22140,PUNE HUMSAFAR,Ajni (Nagpur),Pune Jn,Su,0,0,0,0,0,0,1
+4,12236,ANVT MDP HUMSFR,Anand Vihar Terminal,Madhupur Jn,Th,0,0,0,1,0,0,0
+5,12572,GKP HUMSAFAR EX,Anand Vihar Terminal,Gorakhpur,M Th Sa Su,1,0,0,1,0,1,1
+6,12596,GKP HUMSAFAR EX,Anand Vihar Terminal,Gorakhpur,Tu W F,0,1,1,0,1,0,0
+7,22438,PRYJ HUMSAFAR,Anand Vihar Terminal,Prayagraj Jn.,Tu Th Su,0,1,0,1,0,0,1
+8,22460,BV DHAM HUMSAFR,Anand Vihar Terminal,Madhupur Jn,M,1,0,0,0,0,0,0
+9,16320,KCVL  HUMSAFAR,Banaswadi,Kochuveli,F Su,0,0,0,0,1,0,1
+10,22354,HUMSAFAR EXP,Banaswadi,Patna Jn,Su,0,0,0,0,0,0,1
+11,22913,SHC HAMSAFAR EX,Bandra Terminus,Saharsa Jn,Su,0,0,0,0,0,0,1
+12,22923,JAM HUMSAFAR,Bandra Terminus,Jamnagar,M Th Sa,1,0,0,1,0,1,0
+13,12503,BNC AGTL EXP,Bangalore Cant,Agartala,Tu,0,1,0,0,0,0,0
+14,22833,HUMSAFAR EXPRES,Bhubaneswar,Krishnarajapurm,W,0,0,1,0,0,0,0
+15,22986,RAJ HAMSAFAR EXP,Delhi S Rohilla,Udaipur City,Su,0,0,0,0,0,0,1
+16,22867,NZM HUMSFAR EXP,Durg,Hazrat Nizamuddin,Tu F,0,1,0,0,1,0,0
+17,12571,ANVT HUMSAFAR,Gorakhpur,Anand Vihar Terminal,W F Sa Su,0,0,1,0,1,1,1
+18,12595,ANVT HUMSAFAR,Gorakhpur,Anand Vihar Terminal,M Tu Th,1,1,0,1,0,0,0
+19,12751,JAT HUMSAFAR,H Sahib Nanded,Jammu Tawi,F,0,0,0,0,1,0,0
+20,22868,DURG HUMSFAR,Hazrat Nizamuddin,Durg,W Sa,0,0,1,0,0,1,0
+21,20889,TPTY HUMSAFR EX,Howrah Jn,Tirupati,Sa,0,0,0,0,0,1,0
+22,22887,YPR HUMSAFAR,Howrah Jn,Yasvantpur Jn,Tu,0,1,0,0,0,0,0
+23,20414,MAHAKAL EX,Indore Jn Bg,Varanasi Jn,W F,0,0,1,0,1,0,0
+24,20416,MAHAKAL SUP,Indore Jn Bg,Varanasi Jn,M,1,0,0,0,0,0,0
+25,12752,NED HUMSAFAR,Jammu Tawi,H Sahib Nanded,Su,0,0,0,0,0,0,1
+26,22318,SDAH HUMSAFAR,Jammu Tawi,Sealdah,W,0,0,1,0,0,0,0
+27,22706,TPTY HAMSAFAR,Jammu Tawi,Tirupati,F,0,0,0,0,1,0,0
+28,22924,BDTS HUMSAFAR,Jamnagar,Bandra Terminus,Tu F Su,0,1,0,0,1,0,1
+29,16319,BAND HUMSAFAR,Kochuveli,Banaswadi,Th Sa,0,0,0,1,0,1,0
+30,22834,BBS HUMSAFAR,Krishnarajapurm,Bhubaneswar,Th,0,0,0,1,0,0,0
+31,12235,ANVT HUMSFR EXP,Madhupur Jn,Anand Vihar Terminal,F,0,0,0,0,1,0,0
+32,22459,ANVT HUMSAFAR,Madhupur Jn,Anand Vihar Terminal,Tu,0,1,0,0,0,0,0
+33,22919,ADI HUMSAFAR,Mgr Chennai Ctr,Ahmedabad Jn,W,0,0,1,0,0,0,0
+34,12276,PRYJ HUMSFAR EX,New Delhi,Prayagraj Jn.,M W F Sa,1,0,1,0,1,1,0
+35,22353,HUMSAFAR EXP,Patna Jn,Banaswadi,Th,0,0,0,1,0,0,0
+36,12275,NDLS HUMSAFAR,Prayagraj Jn.,New Delhi,Tu Th F Su,0,1,0,1,1,0,1
+37,22437,ANVT HUMSAFAR,Prayagraj Jn.,Anand Vihar Terminal,M W Sa,1,0,1,0,0,1,0
+38,20821,PUNE SRC SUP EXP,Pune Jn,Santragachi Jn,M,1,0,0,0,0,0,0
+39,22139,AJNI HUMSAFAR,Pune Jn,Ajni (Nagpur),Sa,0,0,0,0,0,1,0
+40,22171,RKMP HUMSAFAR,Pune Jn,Rani Kamlapati(Bhopal),Su,0,0,0,0,0,0,1
+41,20974,AJMER HUMSAFAR,Rameswaram,Ajmer Jn,Tu,0,1,0,0,0,0,0
+42,22169,SRC HUMSAFAR,Rani Kamlapati(Bhopal),Santragachi Jn,W,0,0,1,0,0,0,0
+43,22172,PUNE HUMSAFAR,Rani Kamlapati(Bhopal),Pune Jn,Sa,0,0,0,0,0,1,0
+44,22914,BDTS HUMSAFAR,Saharsa Jn,Bandra Terminus,Tu,0,1,0,0,0,0,0
+45,20822,PUNE HUMSAFAR,Santragachi Jn,Pune Jn,Sa,0,0,0,0,0,1,0
+46,22170,RKMP HUMSAFAR,Santragachi Jn,Rani Kamlapati(Bhopal),Th,0,0,0,1,0,0,0
+47,22317,HUMSAFAR EXP,Sealdah,Jammu Tawi,M,1,0,0,0,0,0,0
+48,22497,TPJ HUMSFAR EXP,Shri Ganganagar,Tiruchchirappalli Jn,M,1,0,0,0,0,0,0
+49,22498,SGNR HUMSAFAR,Tiruchchirappalli Jn,Shri Ganganagar,F,0,0,0,0,1,0,0
+50,20890,HWH HUMSAFAR SF,Tirupati,Howrah Jn,Su,0,0,0,0,0,0,1
+51,22705,JAT HUMSAFAR,Tirupati,Jammu Tawi,Tu,0,1,0,0,0,0,0
+52,22985,RAJ HUMSAFAR EXP,Udaipur City,Delhi S Rohilla,Sa,0,0,0,0,0,1,0
+53,20413,MAHAKAL SF EXP,Varanasi Jn,Indore Jn Bg,Tu Th,0,1,0,1,0,0,0
+54,20415,MAHAKAL SF EXP,Varanasi Jn,Indore Jn Bg,Su,0,0,0,0,0,0,1
+55,22888,HWH HUMSAFAR,Yasvantpur Jn,Howrah Jn,Th,0,0,0,1,0,0,0
+0,22921,GKP ANTYODAYA,Bandra Terminus,Gorakhpur,Su,0,0,0,0,0,0,1
+1,14719,BKN BSP ANTYODAYA EXP,Bikaner Jn,Bilaspur Jn,W,0,0,1,0,0,0,0
+2,14720,BSP BKN ANTYODAYA EXP,Bilaspur Jn,Bikaner Jn,F,0,0,0,0,1,0,0
+3,15551,DBG-BCY-DBG ANTYODAYA EXP,Darbhanga Jn,Varanasi City,W,0,0,1,0,0,0,0
+4,22551,ANTYODYA SUP EX,Darbhanga Jn,Jalandhar City,Sa,0,0,0,0,0,1,0
+5,22895,DURG FZR ANTYODAYA EXP,Durg,Firozpur Cantt Jn,Su,0,0,0,0,0,0,1
+6,22878,ANTYODAYA EXP,Ernakulam Jn,Howrah Jn,M,1,0,0,0,0,0,0
+7,22896,FZR DURG ANTYODAYA EXP,Firozpur Cantt Jn,Durg,Tu,0,1,0,0,0,0,0
+8,22922,ANTYODAYA EXP,Gorakhpur,Bandra Terminus,Tu,0,1,0,0,0,0,0
+9,22877,HWH ERS SUF EXP,Howrah Jn,Ernakulam Jn,Sa,0,0,0,0,0,1,0
+10,22552,ANTYODAYA EXP,Jalandhar City,Darbhanga Jn,Su,0,0,0,0,0,0,1
+11,15563,UDN ANTYODAYA EXPRESS,Jaynagar,Udhna Jn (Surat),F,0,0,0,0,1,0,0
+12,16355,MAJN ANTYODAYA,Kochuveli,Mangalore Jn,Th Sa,0,0,0,1,0,1,0
+13,22885,ANTYODAYA EXP,Lokmanyatilak,Tatanagar Jn,Tu Sa,0,1,0,0,0,1,0
+14,16356,KCVL ANTYODAYA,Mangalore Jn,Kochuveli,F Su,0,0,0,0,1,0,1
+15,22842,MAS SRC ANTYODAYA,Mgr Chennai Ctr,Santragachi Jn,W,0,0,1,0,0,0,0
+16,20692,NCJ-TBM ANTYODAYA SF EXP,Nagarcoil Jn,Tambaram,Daily,1,1,1,1,1,1,1
+17,22841,SRC MAS ANTYODAYA EXPRESS,Santragachi Jn,Mgr Chennai Ctr,M,1,0,0,0,0,0,0
+18,20691,TBM-NCJ ANTYODAYA SF  EXP,Tambaram,Nagarcoil Jn,Daily,1,1,1,1,1,1,1
+19,22886,ANTYODAYA EXP,Tatanagar Jn,Lokmanyatilak,Th Su,0,0,0,1,0,0,1
+20,15564,JYG ANTYODAYA EXPRESS,Udhna Jn (Surat),Jaynagar,Su,0,0,0,0,0,0,1
+21,15552,DBG-BCY-DBG ANTYODAYA EXP,Varanasi City,Darbhanga Jn,Th,0,0,0,1,0,0,0
+0,12983,AII CDG G RATH,Ajmer Jn,Chandigarh,Tu F Su,0,1,0,0,1,0,1
+1,12204,SHC GARIB RATH,Amritsar Jn,Saharsa Jn,W Sa Su,0,0,1,0,0,1,1
+2,12212,MFP GRATH EXP,Anand Vihar Terminal,Muzaffarpur Jn,W,0,0,1,0,0,0,0
+3,12436,JYG GARIB RATH,Anand Vihar Terminal,Jaynagar,Tu Sa,0,1,0,0,0,1,0
+4,22406,BGP GARIB RATH,Anand Vihar Terminal,Bhagalpur,M W F,1,0,1,0,1,0,0
+5,22408,BSB GARIB RATH,Anand Vihar Terminal,Varanasi Jn,M F,1,0,0,0,1,0,0
+6,22410,GAYA GARIB RATH,Anand Vihar Terminal,Gaya Jn,Sa,0,0,0,0,0,1,0
+7,12216,DEE GARIBRATH,Bandra Terminus,Delhi S Rohilla,Tu W F Su,0,1,1,0,1,0,1
+8,12909,NZM GARIB RATH,Bandra Terminus,Hazrat Nizamuddin,Tu Th Sa,0,1,0,1,0,1,0
+9,22405,ANVT GARIB RATH,Bhagalpur,Anand Vihar Terminal,Tu Th Sa,0,1,0,1,0,1,0
+10,12594,LJN GARIBRATH,Bhopal  Jn,Lucknow Ne,M,1,0,0,0,0,0,0
+11,12188,JBP GARIB RATH,C Shivaji Maharaj T,Jabalpur,Tu Th Su,0,1,0,1,0,0,1
+12,12984,CDG AII G RATH,Chandigarh,Ajmer Jn,M W Sa,1,0,1,0,0,1,0
+13,12215,BDTS GARIB RATH,Delhi S Rohilla,Bandra Terminus,M Tu Th Sa,1,1,0,1,0,1,0
+14,22409,ANVT GARIB RATH,Gaya Jn,Anand Vihar Terminal,Su,0,0,0,0,0,0,1
+15,12612,MAS GARIB RATH,Hazrat Nizamuddin,Mgr Chennai Ctr,M,1,0,0,0,0,0,0
+16,12910,BDTS GARIBRATH,Hazrat Nizamuddin,Bandra Terminus,W F Su,0,0,1,0,1,0,1
+17,12187,GARIBRATH EXP,Jabalpur,C Shivaji Maharaj T,M W Sa,1,0,1,0,0,1,0
+18,12208,KGM GARIB RATH,Jammu Tawi,Kathgodam,Su,0,0,0,0,0,0,1
+19,12435,GARIB RATH EXP,Jaynagar,Anand Vihar Terminal,M F,1,0,0,0,1,0,0
+20,12209,KGM GARIBRATH,Kanpur Central,Kathgodam,Tu,0,1,0,0,0,0,0
+21,12207,JAMMU GARIBRATH,Kathgodam,Jammu Tawi,Tu,0,1,0,0,0,0,0
+22,12210,CNB GARIBRATH,Kathgodam,Kanpur Central,M,1,0,0,0,0,0,0
+23,12202,LTT GARIB RATH,Kochuveli,Lokmanyatilak,Th Su,0,0,0,1,0,0,1
+24,12258,KCVL YPR GR EXP,Kochuveli,Yasvantpur Jn,M W F,1,0,1,0,1,0,0
+25,12359,PNBE GARIB RATH,Kolkata,Patna Jn,Tu Th Sa,0,1,0,1,0,1,0
+26,12201,KCVL GARIBRATH,Lokmanyatilak,Kochuveli,M F,1,0,0,0,1,0,0
+27,12535,LJN R GARIBRATH,Lucknow Ne,Raipur Jn,M Th,1,0,0,1,0,0,0
+28,12593,LJN BPL G RATH,Lucknow Ne,Bhopal  Jn,Sa,0,0,0,0,0,1,0
+29,12611,NZM GARIBRATH,Mgr Chennai Ctr,Hazrat Nizamuddin,Sa,0,0,0,0,0,1,0
+30,12211,ANVT GARIB RATH,Muzaffarpur Jn,Anand Vihar Terminal,F,0,0,0,0,1,0,0
+31,12114,PUNE GARIBRATH,Nagpur,Pune Jn,Tu F Su,0,1,0,0,1,0,1
+32,12878,RNC GARIB RATH,New Delhi,Ranchi,Tu Th Su,0,1,0,1,0,0,1
+33,12360,KOL GARIB RATH,Patna Jn,Kolkata,W F Su,0,0,1,0,1,0,1
+34,12113,NGP GARIBRATH,Pune Jn,Nagpur,M W Sa,1,0,1,0,0,1,0
+35,12882,GARIB RATH,Puri,Shalimar,M W,1,0,1,0,0,0,0
+36,22883,GARIB RATH,Puri,Yasvantpur Jn,F,0,0,0,0,1,0,0
+37,12536,LJN GARIBRATH,Raipur Jn,Lucknow Ne,Tu F,0,1,0,0,1,0,0
+38,12877,NDLS GARIB RATH,Ranchi,New Delhi,M Tu F,1,1,0,0,1,0,0
+39,12203,GARIB RATH EXP,Saharsa Jn,Amritsar Jn,M Th Su,1,0,0,1,0,0,1
+40,12735,GARIBRATH EXP,Secunderabad Jn,Yasvantpur Jn,W F Su,0,0,1,0,1,0,1
+41,12740,GARIBRATH EXP,Secunderabad Jn,Visakhapatnam,Daily,1,1,1,1,1,1,1
+42,12881,PURI GARIB RATH,Shalimar,Puri,Tu Th,0,1,0,1,0,0,0
+43,22407,ANVT GARIB RATH,Varanasi Jn,Anand Vihar Terminal,Th Su,0,0,0,1,0,0,1
+44,12739,GARIB RATH,Visakhapatnam,Secunderabad Jn,Daily,1,1,1,1,1,1,1
+45,12257,KCVL GARIBRATH,Yasvantpur Jn,Kochuveli,Tu Th Su,0,1,0,1,0,0,1
+46,12736,SC GARIB RATH,Yasvantpur Jn,Secunderabad Jn,M Th Sa,1,0,0,1,0,1,0
+47,22884,GARIBRATH EXP,Yasvantpur Jn,Puri,Sa,0,0,0,0,0,1,0
+0,12917,GUJRAT S KRANTI,Ahmedabad Jn,Hazrat Nizamuddin,M,1,0,0,0,0,0,0
+1,12330,SAMPARK K EXP,Anand Vihar Terminal,Sealdah,W,0,0,1,0,0,0,0
+2,12820,BBS S KRNTI EXP,Anand Vihar Terminal,Bhubaneswar,Tu F,0,1,0,0,1,0,0
+3,12826,ANVT RNC SF EXP,Anand Vihar Terminal,Ranchi,W Sa,0,0,1,0,0,1,0
+4,12907,BDTS SMPRK K EX,Bandra Terminus,Hazrat Nizamuddin,W Su,0,0,1,0,0,0,1
+5,12819,SAMPARK KRANTI,Bhubaneswar,Anand Vihar Terminal,W Su,0,0,1,0,0,0,1
+6,12218,KERLA S KRANTI,Chandigarh,Kochuveli,W F,0,0,1,0,1,0,0
+7,12450,GOA S KRANTI,Chandigarh,Madgaon,M Sa,1,0,0,0,0,1,0
+8,12565,BIHAR S KRANTI,Darbhanga Jn,New Delhi,Daily,1,1,1,1,1,1,1
+9,15035,UTR SAMPRK KRTI,Delhi,Kathgodam,Daily,1,1,1,1,1,1,1
+10,12463,RAJ S KRNTI EXP,Delhi S Rohilla,Jodhpur Jn,W,0,0,1,0,0,0,0
+11,12823,CG SMPRK KRANTI,Durg,Hazrat Nizamuddin,M Th Sa,1,0,0,1,0,1,0
+12,12122,M P S KRNTI EXP,Hazrat Nizamuddin,Jabalpur,M Th Sa,1,0,0,1,0,1,0
+13,12448,UP SAMPRK KRANTI,Hazrat Nizamuddin,Manikpur Jn,Daily,1,1,1,1,1,1,1
+14,12650,YPR SAMPARK KRT,Hazrat Nizamuddin,Yasvantpur Jn,M Tu Th Sa Su,1,1,0,1,0,1,1
+15,12652,SMPARK KRNT EXP,Hazrat Nizamuddin,Madurai Jn,Tu Th,0,1,0,1,0,0,0
+16,12708,NZM TPTY SF EXP,Hazrat Nizamuddin,Tirupati,W F Su,0,0,1,0,1,0,1
+17,12824,CG S KRANTI,Hazrat Nizamuddin,Durg,Tu F Su,0,1,0,0,1,0,1
+18,12908,MHRST SMPRK K EX,Hazrat Nizamuddin,Bandra Terminus,M Th,1,0,0,1,0,0,0
+19,12918,GUJRAT S KRANTI,Hazrat Nizamuddin,Ahmedabad Jn,Sa,0,0,0,0,0,1,0
+20,12121,MP SAMPRK KRNTI,Jabalpur,Hazrat Nizamuddin,W F Su,0,0,1,0,1,0,1
+21,12464,RJSTHN S KRANTI,Jodhpur Jn,Delhi S Rohilla,Th,0,0,0,1,0,0,0
+22,15036,UTR SMPRK K EXP,Kathgodam,Delhi,Daily,1,1,1,1,1,1,1
+23,12217,SAMPARK KRANTHI,Kochuveli,Chandigarh,M Sa,1,0,0,0,0,1,0
+24,12449,GOA SMPRK K SPL,Madgaon,Chandigarh,Tu W,0,1,1,0,0,0,0
+25,12651,NZM S KRNTI EXP,Madurai Jn,Hazrat Nizamuddin,Tu Su,0,1,0,0,0,0,1
+26,12447,UP SMPRK KRANTI,Manikpur Jn,Hazrat Nizamuddin,Daily,1,1,1,1,1,1,1
+27,12445,UTTAR S KRANTI,New Delhi,Shmata Vd Katra,Daily,1,1,1,1,1,1,1
+28,12566,BIHAR S KRANTI,New Delhi,Darbhanga Jn,Daily,1,1,1,1,1,1,1
+29,12825,RNC ANVT SF EXP,Ranchi,Anand Vihar Terminal,M Th,1,0,0,1,0,0,0
+30,12329,SAMPARK K EXP,Sealdah,Anand Vihar Terminal,Tu,0,1,0,0,0,0,0
+31,12446,UTTAR S KRANTI,Shmata Vd Katra,New Delhi,Daily,1,1,1,1,1,1,1
+32,12707,SAMPARK KRANTI,Tirupati,Hazrat Nizamuddin,M W F,1,0,1,0,1,0,0
+33,12629,SAMPARK KRANTI,Yasvantpur Jn,Hazrat Nizamuddin,Tu Th,0,1,0,1,0,0,0
+34,12649,SAMPARK KRANTI,Yasvantpur Jn,Hazrat Nizamuddin,M W F Sa Su,1,0,1,0,1,1,1
